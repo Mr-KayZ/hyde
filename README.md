@@ -28,7 +28,7 @@ This will ignore any `.toml` config inside `hyde-data`.
 ## Developing
 We accept contributions, and we'll happily mentor individuals through
 their contributions. Feel free to ask for help, either through Github, 
-or in the r/TechSupport discord server.
+or in the [r/TechSupport discord server](https://discord.com/invite/2EDwzWa).
 
 Development is supported on Windows (With
 [some caveats](https://github.com/r-Techsupport/hyde/issues/6)),
